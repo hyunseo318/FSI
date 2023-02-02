@@ -34,3 +34,6 @@
 2. 럭셔리지수
 3. 포미지수
 
+[FSI_마인드헌터_최종제출본.pdf](https://github.com/hyunseo318/FSI/files/10569857/FSI_._.pdf)
+
+[FSI 보고서.pdf](https://github.com/hyunseo318/FSI/files/10569861/FSI.pdf)
