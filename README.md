@@ -1,6 +1,6 @@
 # FSI Data Challenge 2022
 
-- 본선 2차 PT 
+- 본선 2차 PT 발표
 - 활용 데이터
   - GranData(신한카드,KCB,SKT) : 지역세분화 분석용 아파트별 라이프스타일 데이터
   
